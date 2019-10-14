@@ -1,0 +1,28 @@
+* {
+    box-sizing: content-box;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    
+    }
+
+table {
+    width: 500px;
+}
+
+thead {
+    background-color: palevioletred;
+    width: 100%;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.blue {
+    background-color: blue;
+}
